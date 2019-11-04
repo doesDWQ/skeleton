@@ -1,0 +1,30 @@
+Scanning ...
+Scan completed.
+[DEBUG] Event Hyperf\Framework\Event\BootApplication handled by Hyperf\Di\Listener\BootApplicationListener listener.
+[DEBUG] Event Hyperf\Framework\Event\BootApplication handled by Hyperf\Config\Listener\RegisterPropertyHandlerListener listener.
+[DEBUG] Event Hyperf\Framework\Event\BootApplication handled by Hyperf\RpcClient\Listener\AddConsumerDefinitionListener listener.
+[DEBUG] Event Hyperf\Framework\Event\BootApplication handled by Hyperf\Paginator\Listener\PageResolverListener listener.
+[DEBUG] Event Hyperf\Framework\Event\BootApplication handled by Hyperf\JsonRpc\Listener\RegisterProtocolListener listener.
+[DEBUG] Event Hyperf\Framework\Event\BeforeMainServerStart handled by Hyperf\Amqp\Listener\BeforeMainServerStartListener listener.
+[DEBUG] Event Hyperf\Framework\Event\BeforeMainServerStart handled by Hyperf\Process\Listener\BootProcessListener listener.
+[DEBUG] Event Hyperf\Framework\Event\OnStart handled by Hyperf\Server\Listener\InitProcessTitleListener listener.
+[DEBUG] Event Hyperf\Framework\Event\MainWorkerStart handled by Hyperf\Amqp\Listener\MainWorkerStartListener listener.
+[DEBUG] Event Hyperf\Framework\Event\MainWorkerStart handled by Hyperf\ServiceGovernance\Listener\RegisterServiceListener listener.
+[INFO] Worker#0 started.
+[DEBUG] Event Hyperf\Framework\Event\AfterWorkerStart handled by Hyperf\Server\Listener\InitProcessTitleListener listener.
+[INFO] HTTP Server listening at 0.0.0.0:9501
+[DEBUG] Event Hyperf\Framework\Event\AfterWorkerStart handled by Hyperf\Server\Listener\AfterWorkerStartListener listener.
+[INFO] Worker#1 started.
+[DEBUG] Event Hyperf\Framework\Event\AfterWorkerStart handled by Hyperf\Server\Listener\InitProcessTitleListener listener.
+[DEBUG] Event Hyperf\Framework\Event\AfterWorkerStart handled by Hyperf\Server\Listener\AfterWorkerStartListener listener.
+[INFO] Worker#2 started.
+[DEBUG] Event Hyperf\Framework\Event\AfterWorkerStart handled by Hyperf\Server\Listener\InitProcessTitleListener listener.
+[DEBUG] Event Hyperf\Framework\Event\AfterWorkerStart handled by Hyperf\Server\Listener\AfterWorkerStartListener listener.
+[DEBUG] Event Hyperf\Framework\Event\OnManagerStart handled by Hyperf\Server\Listener\InitProcessTitleListener listener.
+[INFO] Worker#3 started.
+[DEBUG] Event Hyperf\Framework\Event\AfterWorkerStart handled by Hyperf\Server\Listener\InitProcessTitleListener listener.
+[DEBUG] Event Hyperf\Framework\Event\AfterWorkerStart handled by Hyperf\Server\Listener\AfterWorkerStartListener listener.
+[DEBUG] Event Hyperf\Process\Event\BeforeProcessHandle handled by Hyperf\Server\Listener\InitProcessTitleListener listener.
+[INFO] Process[queue.default.0] start.
+[DEBUG] Event Hyperf\Process\Event\BeforeProcessHandle handled by Hyperf\Process\Listener\LogBeforeProcessStartListener listener.
+int(1)
